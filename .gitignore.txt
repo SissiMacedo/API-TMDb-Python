@@ -1,0 +1,9 @@
+# Arquivos de chave e segurança
+tmdb_api.py
+*.xlsx
+# Ambientes virtuais
+.venv/
+venv/
+# Logs e caches
+__pycache__/
+*.pyc
